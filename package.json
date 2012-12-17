@@ -1,0 +1,8 @@
+{
+	"name": "Flight App",
+	"version":"1.0.0",
+	"dependencies": {
+		"dojo": "current"
+	},
+	"dojoBuild": "flightapp.profile.js"
+}
